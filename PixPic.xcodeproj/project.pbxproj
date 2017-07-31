@@ -815,6 +815,7 @@
 					FDAF466D1C47E8AA008060CD = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = X369K52C4V;
+						LastSwiftMigration = 0830;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -1193,6 +1194,7 @@
 				PROVISIONING_PROFILE = "14af9056-c8ec-4aa2-a389-104f032e9bdd";
 				SWIFT_OBJC_BRIDGING_HEADER = "PixPic/Resources/PixPic-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -1223,6 +1225,7 @@
 				PROVISIONING_PROFILE = "0ed09714-2f2c-4001-babb-3fafc9737564";
 				SWIFT_OBJC_BRIDGING_HEADER = "PixPic/Resources/PixPic-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
